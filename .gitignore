@@ -1,0 +1,22 @@
+# Tệp cấu hình người dùng
+*.suo
+*.user
+*.sln.docstates
+
+# Thư mục và tệp biên dịch
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Tệp và thư mục ReSharper
+_ReSharper*/
+
+# Tệp và thư mục khác
+TestResults/
+*.cache
+*.bak
+.vs/
+*.csproj.user
+MiniSupermarket/GUI/FormMuaHang.resx
